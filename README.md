@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a local RAG AI project and have several public apps featured on my Hugging Face page. Feel free to check them out!](https://huggingface.co/arad1367)
 
-- 🌱 I’m currently learning **I am currently advancing my expertise in deep AI applications within natural language processing and computer vision. Concurrently, I am investigating the application of machine learning techniques to real-time analysis.**
+- 🌱 I’m **currently advancing my expertise in deep AI applications within natural language processing and computer vision. Concurrently, I am investigating the application of machine learning techniques to real-time analysis.**
 
 - 👨‍💻 All of my projects are available at [https://arad1367.pythonanywhere.com/about](https://arad1367.pythonanywhere.com/about)
 

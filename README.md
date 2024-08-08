@@ -11,7 +11,7 @@
 
 - 📝 I regularly publish articles and you can check my google scholar [https://scholar.google.com/citations?user=zO-nHd0AAAAJ&hl=en](https://scholar.google.com/citations?user=zO-nHd0AAAAJ&hl=en)
 
-- 💬 Ask me about **You can ask me about Machine Learning, Deep Learning, Python programming, AI development, MLOps, Cloud platforms like AWS, Azure, and GCP, Cybersecurity, Dart programming & Flutter, Power BI & Power Apps, HTML, CSS, JavaScript, and C# programming..**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python programming, AI development, MLOps, Cloud platforms like AWS, Azure, and GCP, Cybersecurity, Dart programming & Flutter, Power BI & Power Apps, HTML, CSS, JavaScript, and C# programming..**
 
 - 📫 How to reach me **pejman.ebrahimi77@gmail.com**
 

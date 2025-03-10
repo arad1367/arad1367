@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Pejman</h1>
 <h3 align="center">A Data Scientist, Machine Learning Engineer, AI Engineer, and Instructor</h3>
 
-- 🔭 I’m currently working on **a Postdoctoral Fellowship in Data Science & AI at the University of Liechtenstein and leading my startup, GilTech Megoldások, in Budapest.**
+- 🔭 I’m currently working on **a Postdoctoral Fellowship in Data Science & AI at the University of Liechtenstein.**
 
 - 🌱 I’m currently learning **advanced AI architectures.**
 

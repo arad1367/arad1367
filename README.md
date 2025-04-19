@@ -28,5 +28,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@pejman_ml_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pejman_ml_67" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi.com/arad1367"> <img align="left" src="https://ko-fi.com/arad1367" height="50" width="210" alt="ko-fi.com/arad1367" /></a></p><br><br>
+<a href="https://ko-fi.com/arad1367">
+  <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="ko-fi.com/arad1367" />
+</a>
+

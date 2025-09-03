@@ -24,9 +24,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/pejman-ebrahimi-4a60151a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/" height="30" width="40" /></a>
-<a href="www.youtube.com/@pejman_ml_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pejman_ml_67" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@pejman_ml_67" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+</a>
 </p>
+
 
 <a href="https://ko-fi.com/arad1367">
   <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="ko-fi.com/arad1367" />

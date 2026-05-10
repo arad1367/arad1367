@@ -3,7 +3,7 @@
 
 <!-- Animated Typing Tagline — FIXED URL ENCODING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+AI+Engineer+%40+GilTechMegoldas;Postdoctoral+Fellow+%40+Uni+Liechtenstein;LLM+%26+Generative+AI+Builder;Voice+AI+%26+3D+Chatbot+Innovator;NLP+%7C+Tourism+AI+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+AI+Engineer+%40+GilTechMegoldasok;Postdoctoral+Fellow+%40+Uni+Liechtenstein;LLM+%26+Generative+AI+Builder;Voice+AI+%26+3D+Chatbot+Innovator;NLP+%7C+Tourism+AI+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Animated Divider -->

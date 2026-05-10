@@ -189,20 +189,17 @@ me.say_hi()
 
 ## 📄 My CV
 
-> 📥 Want to know more about my background and experience?
+> 📥 Download my full CV directly from this repository!
 
 <p align="center">
+  <a href="https://raw.githubusercontent.com/arad1367/arad1367/main/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Full_CV-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-> 💡 **To attach a PDF CV directly:** Upload your `CV.pdf` to this repository, then replace the LinkedIn badge above with:
-> ```markdown
-> <a href="https://raw.githubusercontent.com/arad1367/arad1367/main/CV_Pejman_Ebrahimi.pdf" target="_blank">
->   <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-> </a>
-> ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

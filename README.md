@@ -83,7 +83,7 @@ me.say_hi()
 </div>
 
 - 🔭 Working on **Postdoctoral Fellowship in Data Science & AI at the University of Liechtenstein**
-- 💼 Working as **Data Scientist & AI Engineer at GilTechMegoldások**
+- 💼 Working as **Data Scientist & AI Engineer at GilTech Megoldások kft.**
 - 🌱 Learning **advanced AI architectures, Agentic AI, and LLM fine-tuning**
 - 👨‍💻 All projects available at [https://github.com/arad1367](https://github.com/arad1367)
 - 💬 Ask me about **Data science, machine learning, and innovative AI solutions**

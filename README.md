@@ -155,7 +155,7 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/arad1367/github-profile/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/arad1367/arad1367/output/github-contribution-grid-snake-dark.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arad1367/arad1367/output/github-contribution-grid-snake-dark.svg"/>

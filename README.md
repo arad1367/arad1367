@@ -155,7 +155,7 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **One-time setup required:** Create `.github/workflows/snake.yml` (see setup guide below) then run the workflow once.
+![snake gif](https://github.com/arad1367/github-profile/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arad1367/arad1367/output/github-contribution-grid-snake-dark.svg"/>
